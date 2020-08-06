@@ -1,0 +1,10 @@
+.tech-icons {
+  font-size: 50px;
+  margin: 10px;
+  transition: transform 0.9s; /* Animation */
+}
+
+.tech-icons:hover {
+  color: orangered;
+  transform: scale(1.5);
+}

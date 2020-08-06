@@ -3,6 +3,7 @@ import Navbar from "./Components/NavbarComponent/Navbar";
 import Home from "./Components/HomeComponent/Home";
 import Education from "./Components/EducationComponent/Education";
 import Footer from "./Components/FooterComponent/Footer";
+import Tech from "./Components/TechComponent/Tech";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
@@ -19,8 +20,8 @@ function App() {
         <Navbar />;{/* <NavTabs /> */}
         <Route exact path="/" component={Home} />
         <Route exact path="/education" component={Education} />
-        {/* <Route exact path="/blog" component={Blog} />
-        <Route path="/contact" component={Contact} /> */}
+        <Route exact path="/tech" component={Tech} />
+        {/* <Route path="/contact" component={Contact} /> */}
         <Footer />
       </div>
     </Router>

@@ -42,7 +42,9 @@ class Home extends Component {
                   <button>Education</button>
                 </a>
                 <button>Projects</button>
-                <button>Tech</button>
+                <a href="/tech">
+                  <button>Tech</button>
+                </a>
               </div>
               <br />
               <br />
