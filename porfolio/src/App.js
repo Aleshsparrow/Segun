@@ -4,6 +4,7 @@ import Home from "./Components/HomeComponent/Home";
 import Education from "./Components/EducationComponent/Education";
 import Footer from "./Components/FooterComponent/Footer";
 import Tech from "./Components/TechComponent/Tech";
+import Projects from "./Components/ProjectsComponent/Projects";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
@@ -21,7 +22,7 @@ function App() {
         <Route exact path="/" component={Home} />
         <Route exact path="/education" component={Education} />
         <Route exact path="/tech" component={Tech} />
-        {/* <Route path="/contact" component={Contact} /> */}
+        <Route path="/projects" component={Projects} />
         <Footer />
       </div>
     </Router>

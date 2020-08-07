@@ -12,6 +12,7 @@ class Education extends Component {
         <div className="edu-card">
           <div className="card" style={{ width: "100%" }}>
             <div className="card-body">
+              <h2>Education</h2>
               <h3 className="card-title">
                 Northwestern University School of Professional Studies
               </h3>

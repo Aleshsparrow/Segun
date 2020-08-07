@@ -41,7 +41,9 @@ class Home extends Component {
                 <a href="/education">
                   <button>Education</button>
                 </a>
-                <button>Projects</button>
+                <a href="/projects">
+                  <button>Projects</button>
+                </a>
                 <a href="/tech">
                   <button>Tech</button>
                 </a>
