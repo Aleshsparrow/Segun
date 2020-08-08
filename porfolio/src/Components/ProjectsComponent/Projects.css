@@ -23,11 +23,11 @@ a button {
   color: white;
 }
 .delay1 {
-  animation: mymove 2s 1;
+  animation: mymove1 2s 1;
   position: relative;
   /* animation-delay: 1s; */
 }
-@keyframes mymove {
+@keyframes mymove1 {
   from {
     left: 600px;
   }
@@ -36,11 +36,11 @@ a button {
   }
 }
 .delay2 {
-  animation: mymove 2.5s 1;
+  animation: mymove2 2.5s 1;
   position: relative;
   /* animation-delay: 1s; */
 }
-@keyframes mymove {
+@keyframes mymove2 {
   from {
     left: 600px;
   }
@@ -49,11 +49,11 @@ a button {
   }
 }
 .delay3 {
-  animation: mymove 3s 1;
+  animation: mymove3 3s 1;
   position: relative;
   /* animation-delay: 1s; */
 }
-@keyframes mymove {
+@keyframes mymove3 {
   from {
     left: 600px;
   }
@@ -62,11 +62,11 @@ a button {
   }
 }
 .delay4 {
-  animation: mymove 3.5s 1;
+  animation: mymove4 3.5s 1;
   position: relative;
   /* animation-delay: 1s; */
 }
-@keyframes mymove {
+@keyframes mymove4 {
   from {
     left: 600px;
   }
