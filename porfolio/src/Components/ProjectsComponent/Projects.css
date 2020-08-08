@@ -22,16 +22,55 @@ small {
 a button {
   color: white;
 }
-/* .delay {
-  animation: mymove 3s infinite;
+.delay1 {
+  animation: mymove 2s 1;
   position: relative;
-  animation-delay: 1s;
+  /* animation-delay: 1s; */
 }
 @keyframes mymove {
   from {
-    left: 200px;
+    left: 600px;
   }
   to {
     left: 0px;
   }
-} */
+}
+.delay2 {
+  animation: mymove 2.5s 1;
+  position: relative;
+  /* animation-delay: 1s; */
+}
+@keyframes mymove {
+  from {
+    left: 600px;
+  }
+  to {
+    left: 0px;
+  }
+}
+.delay3 {
+  animation: mymove 3s 1;
+  position: relative;
+  /* animation-delay: 1s; */
+}
+@keyframes mymove {
+  from {
+    left: 600px;
+  }
+  to {
+    left: 0px;
+  }
+}
+.delay4 {
+  animation: mymove 3.5s 1;
+  position: relative;
+  /* animation-delay: 1s; */
+}
+@keyframes mymove {
+  from {
+    left: 600px;
+  }
+  to {
+    left: 0px;
+  }
+}
