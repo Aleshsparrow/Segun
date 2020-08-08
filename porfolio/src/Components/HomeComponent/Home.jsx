@@ -11,15 +11,17 @@ class Home extends Component {
         <Row>
           <Col className="pic" xs={12} sm={6} md={6} lg={6} xl={6}>
             <img
-              src="https://i.imgur.com/I6XFCR7.jpg"
+              src="https://i.imgur.com/wsRpryK.jpg"
               title="Segun: imgur.com"
             />
           </Col>
-          <Col xs={12} sm={6} md={6} lg={6} xl={6}>
-            <div className="bio">
+          <Col className="bio" xs={12} sm={6} md={6} lg={6} xl={6}>
+            <div>
               <h1>Segun Alesinloye</h1>
-              <h4>Chicago, 60618 | (872) 203-5491 | segunalesh@gmail.com</h4>
-              <h3>Full Stack Web Developer/Software Engineer</h3>
+              <h5>Chicago, 60618 | (872) 203-5491 | segunalesh@gmail.com</h5>
+              <h3 className="full">
+                Full Stack Web Developer/Software Engineer
+              </h3>
               <br></br>
               <h4>
                 My name is Segun Alesinloye, my pronouns are Him/His/He. I am a
@@ -33,7 +35,7 @@ class Home extends Component {
                 <span>jQuery, Node JS, React JS, Express JS and so on....</span>
               </h4>
               <br />
-              <div className="button">
+              {/* <div>
                 <a href="/">
                   <button>Home</button>
                 </a>
@@ -47,7 +49,8 @@ class Home extends Component {
                 <a href="/tech">
                   <button>Tech</button>
                 </a>
-              </div>
+              </div> */}
+              <br />
               <br />
               <br />
             </div>

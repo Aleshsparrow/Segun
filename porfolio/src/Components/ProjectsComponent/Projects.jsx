@@ -12,7 +12,7 @@ class Projects extends Component {
             // style="text-decoration: none;"
             href="https://aleshsparrow.github.io/Weather-Dashboard/"
           > */}
-          <div className="pro-card">
+          <div className="delay" className="pro-card">
             <div className="row no-gutters">
               <div className="col-sm-6">
                 <img
@@ -22,21 +22,21 @@ class Projects extends Component {
                 />
               </div>
               <div className="col-sm-6">
-                <div className="card-body">
-                  <h5 className="card-title">Weather Dashboard</h5>
-                  <p className="card-text">
+                <div>
+                  <h2>Weather Dashboard</h2>
+                  <p className="word">
                     A weather web app that provides user with the current and
                     five day forecast of any location entered. This was a
                     personal project.
                   </p>
-                  <p className="card-text">
-                    <small className="text-muted">
+                  <p>
+                    <small>
                       Technologies used: HTML, CSS, jquery, AJAX, API etc.
                     </small>
                   </p>
-                  <br />
-                  <br />
-                  <br />
+                  {/* <br /> */}
+                  {/* <br /> */}
+                  {/* <br /> */}
                   <a href="https://aleshsparrow.github.io/Weather-Dashboard/">
                     <button>Link</button>
                   </a>
@@ -63,22 +63,21 @@ class Projects extends Component {
                 />
               </div>
               <div className="col-sm-6">
-                <div className="card-body">
-                  <h5 className="card-title">Hero Box</h5>
-                  <p className="card-text">
+                <div>
+                  <h2>Hero Box</h2>
+                  <p className="word">
                     A subscription based e-commerce platform that allows user to
                     subscribe to monthly delivery of comic books. I teamed up
                     with four other developers on this project.
                   </p>
-                  <p className="card-text">
-                    <small className="text-muted">
+                  <p>
+                    <small>
                       Technologies used: HTML, CSS, JavaScript, AJAX, API,
                       React.js, Axios NPM package etc.
                     </small>
                   </p>
-                  <br />
-                  <br />
-                  <br />
+                  {/* <br /> */}
+                  {/* <br /> */}
                   <a href="https://i.imgur.com/5sPU7RO.png">
                     <button>Link</button>
                   </a>
@@ -105,9 +104,9 @@ class Projects extends Component {
                 />
               </div>
               <div className="col-sm-6">
-                <div className="card-body">
-                  <h5 className="card-title">Soil Time App</h5>
-                  <p className="card-text">
+                <div>
+                  <h2>Soil Time App</h2>
+                  <p className="word">
                     This is a web app designed to educate farmers and plant
                     lovers about what type of plant is suitable for the soil
                     type in their locality; The app takes in user's location and
@@ -115,13 +114,13 @@ class Projects extends Component {
                     a joint project, I teamed up with a three other developers
                     on this project.
                   </p>
-                  <p className="card-text">
-                    <small className="text-muted">
+                  <p>
+                    <small>
                       Technologies used: HTML, CSS, JavaScript, AJAX, API,
                       Handlebars.js, Axios NPM package etc.
                     </small>
                   </p>
-                  <br />
+                  {/* <br /> */}
                   <a href="https://sheltered-shore-12233.herokuapp.com/">
                     <button>Link</button>
                   </a>
@@ -148,9 +147,9 @@ class Projects extends Component {
                 />
               </div>
               <div className="col-sm-6">
-                <div className="card-body">
-                  <h5 className="card-title">Weather Based Suggestions</h5>
-                  <p className="card-text">
+                <div>
+                  <h2>Weather Based Suggestions</h2>
+                  <p className="word">
                     A web app built for suggesting activities based on weather
                     conditions. User is required to enter a city or zip code
                     into the search area. Upon click the search button, the user
@@ -158,13 +157,13 @@ class Projects extends Component {
                     with the mood. This app was built by me and one other
                     developer
                   </p>
-                  <p className="card-text">
-                    <small className="text-muted">
+                  <p>
+                    <small>
                       Technologies used: HTML, CSS, JavaScript, jQuery, AJAX,
                       API etc.
                     </small>
                   </p>
-                  <br />
+                  {/* <br /> */}
                   <a href="https://aleshsparrow.github.io/Weather-based-suggestions/">
                     <button>Link</button>
                   </a>

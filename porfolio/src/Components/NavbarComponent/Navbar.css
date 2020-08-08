@@ -3,7 +3,10 @@
 }
 
 .navi {
-  background-color: rgb(58, 65, 3);
+  background-color: black;
+  font-family: "Lobster", cursive;
+
+  /* background-color: rgb(58, 65, 3); */
   width: 100%;
   padding: 10;
   height: auto;

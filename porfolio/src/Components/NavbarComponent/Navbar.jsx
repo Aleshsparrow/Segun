@@ -8,7 +8,7 @@ class Navbar extends Component {
   render() {
     return (
       <nav className="navi">
-        <Container>
+        <Container style={{ backgroundColor: "teal" }}>
           <Row>
             <a href="#">
               <Col

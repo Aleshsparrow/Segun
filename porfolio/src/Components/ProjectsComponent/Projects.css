@@ -3,6 +3,35 @@
   box-sizing: border-box;
 }
 .pro-card {
-  background-color: rgb(58, 65, 3);
+  background-color: teal;
   border-radius: 20px;
 }
+div h2 {
+  color: black;
+}
+.word {
+  font-family: "PT Serif", serif;
+  font-size: 15px;
+  color: whitesmoke;
+  margin-right: 5px;
+}
+small {
+  font-size: 15px;
+  color: black;
+}
+a button {
+  color: white;
+}
+/* .delay {
+  animation: mymove 3s infinite;
+  position: relative;
+  animation-delay: 1s;
+}
+@keyframes mymove {
+  from {
+    left: 200px;
+  }
+  to {
+    left: 0px;
+  }
+} */
