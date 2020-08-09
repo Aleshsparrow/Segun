@@ -35,21 +35,6 @@ class Home extends Component {
                 <span>jQuery, Node JS, React JS, Express JS and so on....</span>
               </h4>
               <br />
-              {/* <div>
-                <a href="/">
-                  <button>Home</button>
-                </a>
-
-                <a href="/education">
-                  <button>Education</button>
-                </a>
-                <a href="/projects">
-                  <button>Projects</button>
-                </a>
-                <a href="/tech">
-                  <button>Tech</button>
-                </a>
-              </div> */}
               <br />
               <br />
               <br />

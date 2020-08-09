@@ -25,7 +25,6 @@ a button {
 .delay1 {
   animation: mymove1 2s 1;
   position: relative;
-  /* animation-delay: 1s; */
 }
 @keyframes mymove1 {
   from {
@@ -38,7 +37,6 @@ a button {
 .delay2 {
   animation: mymove2 2.5s 1;
   position: relative;
-  /* animation-delay: 1s; */
 }
 @keyframes mymove2 {
   from {
@@ -51,7 +49,6 @@ a button {
 .delay3 {
   animation: mymove3 3s 1;
   position: relative;
-  /* animation-delay: 1s; */
 }
 @keyframes mymove3 {
   from {
@@ -64,7 +61,6 @@ a button {
 .delay4 {
   animation: mymove4 3.5s 1;
   position: relative;
-  /* animation-delay: 1s; */
 }
 @keyframes mymove4 {
   from {
@@ -73,4 +69,19 @@ a button {
   to {
     left: 0px;
   }
+}
+button {
+  box-sizing: border-box;
+  font-size: 40px;
+  font-weight: bolder;
+  color: rgb(255, 255, 255);
+  width: 25%;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: black;
+  transition: transform 0.9s; /* Animation */
+}
+button:hover {
+  background-color: orangered;
+  transform: scale(1.5);
 }
