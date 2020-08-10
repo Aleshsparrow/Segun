@@ -10,10 +10,8 @@ div h1 {
   max-height: 430px;
 }
 img {
-  /* top: 30px; */
   max-width: 100%;
   max-height: 450px;
-  /* height: 430px; */
   margin: auto;
   border-radius: 20px;
   animation: mymove6 3s 1;
