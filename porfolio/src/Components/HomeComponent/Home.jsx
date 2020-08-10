@@ -15,6 +15,7 @@ class Home extends Component {
                 className="picture"
                 src="https://i.imgur.com/wsRpryK.jpg"
                 title="Segun: imgur.com"
+                alt="Profile picture"
               />
             </div>
           </Col>
