@@ -27,15 +27,17 @@ class Home extends Component {
               </h3>
               <br></br>
               <h4>
-                My name is Segun Alesinloye, my pronouns are Him/His/He. I am a
+                My name is Segun Alesinloye, my pronouns are He/Him/His. I am a
                 full Stack Web Developer/Software Engineer with profiency in
                 technologies like
                 <span>
                   HTML, CSS, JavaScript and I have experience working with CCS
                   libraries such as Materialize and Bootstrap.
                 </span>
-                I am also vast in JavaScript based frameworks such as:
-                <span>jQuery, Node JS, React JS, Express JS and so on....</span>
+                I am also vast in JavaScript based frameworks such as: jQuery,
+                Node JS, React JS, Express JS and so on. Click on the
+                <span> Projects</span> directory to see some projects I have
+                worked on.
                 <br />
                 <br />
                 <Col
