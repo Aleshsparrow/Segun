@@ -9,14 +9,17 @@ class Home extends Component {
     return (
       <Container>
         <Row>
-          <Col className="pic" xs={12} sm={12} md={4} lg={4} xl={4}>
-            <img
-              src="https://i.imgur.com/wsRpryK.jpg"
-              title="Segun: imgur.com"
-            />
+          <Col xs={12} sm={12} md={4} lg={4} xl={4}>
+            <div className="pic">
+              <img
+                className="picture"
+                src="https://i.imgur.com/wsRpryK.jpg"
+                title="Segun: imgur.com"
+              />
+            </div>
           </Col>
-          <Col className="bio" xs={12} sm={12} md={8} lg={8} xl={8}>
-            <div>
+          <Col xs={12} sm={12} md={8} lg={8} xl={8}>
+            <div className="bio">
               <h1>Segun Alesinloye</h1>
               <h5>Chicago, 60618 | (872) 203-5491 | segunalesh@gmail.com</h5>
               <h3 className="full">
@@ -33,6 +36,28 @@ class Home extends Component {
                 </span>
                 I am also vast in JavaScript based frameworks such as:
                 <span>jQuery, Node JS, React JS, Express JS and so on....</span>
+                <br />
+                <br />
+                <Col
+                  style={{ boxSizing: "border-box" }}
+                  xs={12}
+                  sm={12}
+                  md={12}
+                  lg={12}
+                  xl={12}
+                >
+                  <div className="icondiv">
+                    <a href="www.linkedin.com/in/segun-alesinloye-969771108">
+                      <FontAwesomeIcon icon={["fab", "linkedin"]} />
+                    </a>
+                    <a href="https://github.com/Aleshsparrow">
+                      <FontAwesomeIcon icon={["fab", "github"]} />
+                    </a>
+                    <a href="">
+                      <FontAwesomeIcon icon={["fab", "twitter"]} />
+                    </a>
+                  </div>
+                </Col>
               </h4>
               <br />
               <br />

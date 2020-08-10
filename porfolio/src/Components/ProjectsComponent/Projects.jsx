@@ -46,14 +46,14 @@ class Projects extends Component {
           {/* </a> */}
           <br />
           {/* <a
-  style="text-decoration: none;"
-  href="https://sheltered-shore-12233.herokuapp.com/"
+style="text-decoration: none;"
+href="https://sheltered-shore-12233.herokuapp.com/"
 > */}
 
           {/* <a
-            style="text-decoration: none;"
-            href="https://aleshsparrow.github.io/Weather-based-suggestions/"
-          > */}
+      style="text-decoration: none;"
+      href="https://aleshsparrow.github.io/Weather-based-suggestions/"
+    > */}
           <div className="pro-card delay2">
             <div className="row no-gutters">
               <div className="col-sm-6">
@@ -95,9 +95,9 @@ class Projects extends Component {
           <br />
 
           {/* <a
-            // style="text-decoration: none;"
-            href="https://aleshsparrow.github.io/Weather-Dashboard/"
-          > */}
+      // style="text-decoration: none;"
+      href="https://aleshsparrow.github.io/Weather-Dashboard/"
+    > */}
           <div className="pro-card delay3">
             <div className="row no-gutters">
               <div className="col-sm-6">
@@ -136,9 +136,9 @@ class Projects extends Component {
           {/* </a> */}
           <br />
           {/* <a
-            style="text-decoration: none;"
-            href="https://pacific-chamber-07789.herokuapp.com/"
-          > */}
+      style="text-decoration: none;"
+      href="https://pacific-chamber-07789.herokuapp.com/"
+    > */}
           <div className="pro-card delay4">
             <div className="row no-gutters">
               <div className="col-sm-6">

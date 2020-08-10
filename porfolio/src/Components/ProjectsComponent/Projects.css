@@ -72,14 +72,14 @@ a button {
 }
 button {
   box-sizing: border-box;
-  font-size: 40px;
-  font-weight: bolder;
+  /* font-size: 15px; */
+  /* font-weight: bolder; */
   color: rgb(255, 255, 255);
-  width: 25%;
+  width: 20%;
   padding: 10px;
   border-radius: 10px;
   background-color: black;
-  margin: 10px;
+  margin: 10px 0px 10px 0px;
   transition: transform 0.9s; /* Animation */
 }
 button:hover {
