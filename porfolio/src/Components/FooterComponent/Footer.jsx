@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-// import { Container, Row, Col } from "reactstrap";
-// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Footer.css";
 
 class Footer extends Component {

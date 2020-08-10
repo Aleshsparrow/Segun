@@ -31,13 +31,15 @@ class Home extends Component {
                 full Stack Web Developer/Software Engineer with profiency in
                 technologies like
                 <span>
+                  {" "}
                   HTML, CSS, JavaScript and I have experience working with CCS
-                  libraries such as Materialize and Bootstrap.
+                  libraries such as Materialize and Bootstrap.{" "}
                 </span>
                 I am also vast in JavaScript based frameworks such as: jQuery,
-                Node JS, React JS, Express JS and so on. Click on the
+                Node JS, React JS, Express JS, Handlebar JS. Click on the
                 <span> Projects</span> directory to see some projects I have
-                worked on.
+                worked on and refer to the <span> Tech </span> directory for
+                list of programming languages I can work with
                 <br />
                 <br />
                 <Col
@@ -49,13 +51,16 @@ class Home extends Component {
                   xl={12}
                 >
                   <div className="icondiv">
-                    <a href="www.linkedin.com/in/segun-alesinloye-969771108">
+                    <a href="https://linkedin.com/in/segun-alesinloye-969771108">
                       <FontAwesomeIcon icon={["fab", "linkedin"]} />
                     </a>
                     <a href="https://github.com/Aleshsparrow">
                       <FontAwesomeIcon icon={["fab", "github"]} />
                     </a>
-                    <a href="">
+                    <a href="https://docs.google.com/document/d/1lpt3qRW82l8xXwda_jTRNNpi95IEKtaX1xQ6xE_8p2w">
+                      <FontAwesomeIcon icon={["fas", "file"]} />
+                    </a>
+                    <a href="https://twitter.com/LeshyLesh_">
                       <FontAwesomeIcon icon={["fab", "twitter"]} />
                     </a>
                   </div>

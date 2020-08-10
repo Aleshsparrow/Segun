@@ -1,8 +1,6 @@
 import React, { Component } from "react";
-import { Container, Row, Col } from "reactstrap";
+import { Container } from "reactstrap";
 import "./Education.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-// import "./Home.css";
 
 class Education extends Component {
   state = {};

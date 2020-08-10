@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Container, Row, Col } from "reactstrap";
+import { Container } from "reactstrap";
 import "./Projects.css";
 
 class Projects extends Component {
@@ -7,14 +7,14 @@ class Projects extends Component {
   render() {
     return (
       <Container>
-        <div className="pro" className="col-sm-12">
+        <div className="pro col-sm-12">
           <div className="pro-card delay1">
             <div className="row no-gutters">
               <div className="col-sm-6">
                 <img
                   src="https://i.imgur.com/5sPU7RO.png"
                   className="card-img"
-                  alt="..."
+                  alt="Landing page"
                 />
               </div>
               <div className="col-sm-6">
@@ -32,10 +32,10 @@ class Projects extends Component {
                     </small>
                   </p>
 
-                  <a href="https://i.imgur.com/5sPU7RO.png">
+                  <a href="https://pacific-chamber-07789.herokuapp.com/">
                     <button>Link</button>
                   </a>
-                  <a href="#">
+                  <a href="https://github.com/Superb-Owls/Subscription-box">
                     <button>Github</button>
                   </a>
                 </div>
@@ -73,7 +73,7 @@ class Projects extends Component {
                   <a href="https://aleshsparrow.github.io/Weather-based-suggestions/">
                     <button>Link</button>
                   </a>
-                  <a href="#">
+                  <a href="https://github.com/Aleshsparrow/Weather-based-suggestions">
                     <button>Github</button>
                   </a>
                 </div>
@@ -108,7 +108,7 @@ class Projects extends Component {
                   <a href="https://aleshsparrow.github.io/Weather-Dashboard/">
                     <button>Link</button>
                   </a>
-                  <a href="https://aleshsparrow.github.io/Weather-Dashboard/">
+                  <a href="https://github.com/Aleshsparrow/Weather-Dashboard">
                     <button>Github</button>
                   </a>
                 </div>
@@ -146,7 +146,7 @@ class Projects extends Component {
                   <a href="https://sheltered-shore-12233.herokuapp.com/">
                     <button>Link</button>
                   </a>
-                  <a href="#">
+                  <a href="https://github.com/SoilTime/Soil-App">
                     <button>Github</button>
                   </a>
                 </div>
@@ -154,9 +154,6 @@ class Projects extends Component {
             </div>
           </div>
 
-          <br />
-          <br />
-          <br />
           <br />
         </div>
       </Container>

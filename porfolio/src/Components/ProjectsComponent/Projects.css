@@ -72,8 +72,6 @@ a button {
 }
 button {
   box-sizing: border-box;
-  /* font-size: 15px; */
-  /* font-weight: bolder; */
   color: rgb(255, 255, 255);
   width: 20%;
   padding: 10px;

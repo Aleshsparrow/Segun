@@ -5,8 +5,6 @@
 .navi {
   background-color: black;
   font-family: "Lobster", cursive;
-
-  /* background-color: rgb(58, 65, 3); */
   width: 100%;
   padding: 10;
   height: auto;
@@ -25,7 +23,6 @@
 
   font-size: 25px;
   text-align: left;
-  /* margin: 15px; */
   width: 100%;
   display: inline-block;
   color: rgb(14, 13, 13);

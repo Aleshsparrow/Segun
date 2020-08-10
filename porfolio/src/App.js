@@ -11,14 +11,15 @@ import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap/dist/css/bootstrap-theme.css";
 import { library } from "@fortawesome/fontawesome-svg-core";
 import { fab } from "@fortawesome/free-brands-svg-icons";
-import { faCheckSquare, faCoffee } from "@fortawesome/free-solid-svg-icons";
+import { faFile } from "@fortawesome/free-solid-svg-icons";
 
-library.add(fab, faCheckSquare, faCoffee);
+library.add(fab, faFile);
 function App() {
   return (
     <Router>
       <div>
-        <Navbar />;{/* <NavTabs /> */}
+        {/* Setting up routes */}
+        <Navbar />;
         <Route exact path="/" component={Home} />
         <Route exact path="/education" component={Education} />
         <Route exact path="/tech" component={Tech} />
@@ -26,7 +27,6 @@ function App() {
         <Footer />
       </div>
     </Router>
-    // <Home />;
   );
 }
 
