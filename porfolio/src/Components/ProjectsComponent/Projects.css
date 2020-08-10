@@ -70,7 +70,7 @@ a button {
     left: 0px;
   }
 }
-/* button {
+button {
   box-sizing: border-box;
   font-size: 40px;
   font-weight: bolder;
@@ -79,9 +79,10 @@ a button {
   padding: 10px;
   border-radius: 10px;
   background-color: black;
-  transition: transform 0.9s; 
-} */
-/* button:hover {
+  margin: 10px;
+  transition: transform 0.9s; /* Animation */
+}
+button:hover {
   background-color: orangered;
   transform: scale(1.5);
-} */
+}
