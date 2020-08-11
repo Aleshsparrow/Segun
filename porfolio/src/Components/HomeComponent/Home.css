@@ -4,13 +4,15 @@ div h1 {
 }
 
 .pic {
+  margin-top: 30px;
+  margin-bottom: 20px;
   box-sizing: border-box;
   padding: 0;
   max-width: 100%;
   max-height: 430px;
 }
 img {
-  max-width: 100%;
+  width: 100%;
   max-height: 450px;
   margin: auto;
   border-radius: 20px;
@@ -47,10 +49,12 @@ img {
   text-align: center;
   border-color: teal;
   width: 100%;
-  max-height: 430px;
+  height: 430px;
   animation: mymove7 3s 1;
   position: relative;
-  margin: 15px;
+  /* margin: 15px; */
+  display: inline-block;
+  box-sizing: border-box;
 }
 @keyframes mymove7 {
   from {
@@ -98,8 +102,8 @@ div h4 {
   transform: scale(1.5);
   margin: 0px 10px 0px 10px;
 }
-.picture {
-  top: 40px;
+/* .picture {
+  top: 30px;
   margin-bottom: auto;
   margin-top: auto;
-}
+} */

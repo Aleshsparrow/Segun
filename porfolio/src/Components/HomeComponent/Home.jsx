@@ -12,7 +12,6 @@ class Home extends Component {
           <Col xs={12} sm={12} md={4} lg={4} xl={4}>
             <div className="pic">
               <img
-                className="picture"
                 src="https://i.imgur.com/wsRpryK.jpg"
                 title="Segun: imgur.com"
                 alt="Segun"
@@ -73,6 +72,8 @@ class Home extends Component {
             </div>
           </Col>
         </Row>
+        <br />
+        <br />
       </Container>
     );
   }
