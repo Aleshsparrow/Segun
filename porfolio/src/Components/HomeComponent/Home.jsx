@@ -40,7 +40,7 @@ class Home extends Component {
                 Node JS, React JS, Express JS, Handlebar JS. Click on the
                 <span> Projects</span> directory to see some projects I have
                 worked on and refer to the <span> Tech </span> directory for
-                list of programming languages I can work with
+                list of programming languages I have experience working with.
                 <br />
                 <br />
                 <Col
