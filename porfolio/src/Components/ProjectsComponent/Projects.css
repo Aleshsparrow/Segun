@@ -8,14 +8,17 @@
 }
 div h2 {
   color: black;
+  margin-left: 10px;
 }
 .word {
   font-family: "PT Serif", serif;
   font-size: 15px;
   color: whitesmoke;
-  margin-right: 5px;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 small {
+  margin: 10px;
   font-size: 15px;
   color: black;
 }
