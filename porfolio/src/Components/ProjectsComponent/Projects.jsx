@@ -25,11 +25,9 @@ class Projects extends Component {
                     subscribe to monthly delivery of comic books. I teamed up
                     with four other developers on this project.
                   </p>
-                  <p>
-                    <small>
-                      Technologies used: HTML, CSS, JavaScript, AJAX, API,
-                      React.js, Axios NPM package etc.
-                    </small>
+                  <p className="verysmall">
+                    Technologies used: HTML, CSS, JavaScript, AJAX, API,
+                    React.js, Axios NPM package etc.
                   </p>
 
                   <a href="https://pacific-chamber-07789.herokuapp.com/">
@@ -64,11 +62,9 @@ class Projects extends Component {
                     and some music to go with the mood. This app was built by me
                     and one other developer
                   </p>
-                  <p>
-                    <small>
-                      Technologies used: HTML, CSS, JavaScript, jQuery, AJAX,
-                      API etc.
-                    </small>
+                  <p className="verysmall">
+                    Technologies used: HTML, CSS, JavaScript, jQuery, AJAX, API
+                    etc.
                   </p>
                   <a href="https://aleshsparrow.github.io/Weather-based-suggestions/">
                     <button>Link</button>
@@ -99,10 +95,8 @@ class Projects extends Component {
                     five day forecast of any location entered. This was a
                     personal project.
                   </p>
-                  <p>
-                    <small>
-                      Technologies used: HTML, CSS, jquery, AJAX, API etc.
-                    </small>
+                  <p className="verysmall">
+                    Technologies used: HTML, CSS, jquery, AJAX, API etc.
                   </p>
 
                   <a href="https://aleshsparrow.github.io/Weather-Dashboard/">
@@ -137,11 +131,9 @@ class Projects extends Component {
                     a joint project, I teamed up with a three other developers
                     on this project.
                   </p>
-                  <p>
-                    <small>
-                      Technologies used: HTML, CSS, JavaScript, AJAX, API,
-                      Handlebars.js, Axios NPM package etc.
-                    </small>
+                  <p className="verysmall">
+                    Technologies used: HTML, CSS, JavaScript, AJAX, API,
+                    Handlebars.js, Axios NPM package etc.
                   </p>
                   <a href="https://sheltered-shore-12233.herokuapp.com/">
                     <button>Link</button>

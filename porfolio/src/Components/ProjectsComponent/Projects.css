@@ -17,13 +17,15 @@ div h2 {
   margin-right: 10px;
   margin-left: 10px;
 }
-small {
-  margin: 10px;
-  font-size: 15px;
+.verysmall {
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 14px;
   color: black;
 }
 a button {
   color: white;
+  margin-left: 10px;
 }
 .delay1 {
   animation: mymove1 2s 1;
