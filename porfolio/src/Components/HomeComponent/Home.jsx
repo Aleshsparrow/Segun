@@ -58,14 +58,11 @@ class Home extends Component {
                     <a href="https://linkedin.com/in/segun-alesinloye-969771108">
                       <FontAwesomeIcon icon={["fab", "linkedin"]} />
                     </a>
-                    <a href="https://github.com/Aleshsparrow">
-                      <FontAwesomeIcon icon={["fab", "github"]} />
-                    </a>
                     <a href="https://docs.google.com/document/d/1lpt3qRW82l8xXwda_jTRNNpi95IEKtaX1xQ6xE_8p2w">
                       <FontAwesomeIcon icon={["fas", "file"]} />
                     </a>
-                    <a href="https://twitter.com/LeshyLesh_">
-                      <FontAwesomeIcon icon={["fab", "twitter"]} />
+                    <a href="https://github.com/Aleshsparrow">
+                      <FontAwesomeIcon icon={["fab", "github"]} />
                     </a>
                   </div>
                 </Col>
