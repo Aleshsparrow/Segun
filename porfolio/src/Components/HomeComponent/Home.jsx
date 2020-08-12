@@ -35,8 +35,12 @@ class Home extends Component {
                   HTML, CSS, JavaScript and I have experience working with CCS
                   libraries such as Materialize and Bootstrap.{" "}
                 </span>
-                I am also vast in JavaScript based frameworks such as: jQuery,
-                Node JS, React JS, Express JS, Handlebar JS. Click on the
+                I am also vast in JavaScript based frameworks such as:{" "}
+                <span>
+                  {" "}
+                  jQuery, Node JS, React JS, Express JS, Handlebar JS.
+                </span>{" "}
+                Click on the
                 <span> Projects</span> directory to see some projects I have
                 worked on and refer to the <span> Tech </span> directory for
                 list of programming languages I have experience working with.

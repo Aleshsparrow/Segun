@@ -70,20 +70,20 @@ img {
 }
 span {
   color: lightseagreen;
-  font-family: "PT Serif", serif;
+  font-family: "Open Sans", sans-serif;
 }
 div > h3 {
   font-family: "Rowdies", cursive;
 }
 div h5 {
   color: lightseagreen;
-  font-family: "PT Serif", serif;
-
+  font-family: "Open Sans", sans-serif;
   margin: 0px 10px 0px 10px;
 }
 
 div h4 {
-  font-family: "Noto Serif KR", serif;
+  font-family: "Open Sans", sans-serif;
+  margin: 5px;
 }
 .icondiv {
   box-sizing: border-box;
