@@ -32,7 +32,7 @@ class Education extends Component {
                 Federal University of Agriculture, Abeokuta, Nigeria
               </h3>
               <h4 className="card-subtitle mb-2 text-muted">
-                Bachelor of Bachelor of Science: Biochemistry
+                Bachelor of Science: Biochemistry
               </h4>
             </div>
           </div>

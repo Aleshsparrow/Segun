@@ -31,7 +31,7 @@ a button {
   margin-left: 10px;
 }
 .delay1 {
-  animation: mymove1 2s 1;
+  animation: mymove1 1.5s 1;
   position: relative;
 }
 @keyframes mymove1 {
@@ -43,7 +43,7 @@ a button {
   }
 }
 .delay2 {
-  animation: mymove2 2.5s 1;
+  animation: mymove2 2s 1;
   position: relative;
 }
 @keyframes mymove2 {
@@ -55,7 +55,7 @@ a button {
   }
 }
 .delay3 {
-  animation: mymove3 3s 1;
+  animation: mymove3 2.5s 1;
   position: relative;
 }
 @keyframes mymove3 {
@@ -67,7 +67,7 @@ a button {
   }
 }
 .delay4 {
-  animation: mymove4 3.5s 1;
+  animation: mymove4 3s 1;
   position: relative;
 }
 @keyframes mymove4 {

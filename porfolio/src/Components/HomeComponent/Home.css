@@ -16,7 +16,7 @@ img {
   max-height: 450px;
   margin: auto;
   border-radius: 20px;
-  animation: mymove6 3s 1;
+  animation: mymove6 1.5s 1;
   position: relative;
 }
 @keyframes mymove6 {
@@ -50,7 +50,7 @@ img {
   border-color: teal;
   width: 100%;
   height: 430px;
-  animation: mymove7 3s 1;
+  animation: mymove7 1.5s 1;
   position: relative;
   /* margin: 15px; */
   display: inline-block;
